@@ -1,0 +1,14 @@
+{
+  "name": "new-joke-crm",
+  "version": "1.0.0",
+  "description": "mongodb database for crm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.9"
+  }
+}
